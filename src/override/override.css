@@ -1,6 +1,10 @@
+*::-webkit-scrollbar{
+    display: none;
+  }
+
 :root {
   --light: #f7f7f7;
-  --dark: #1a1a1a;
+  --dark: #1E1E2E;
   --med: #808080;
 
   --foreground: var(--dark);
